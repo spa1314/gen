@@ -1,0 +1,14 @@
+https://aggressive-weather.surge.sh
+surge --domain https://aggressive-weather.surge.sh
+https://david20hsu.surge.sh/index.html
+
+user:david20hsu@gmail.com
+pass:alrxajix
+�ק�
+c:\users\user889\web  �U���O
+surge -d david20hsu.surge.sh -p./
+
+
+�u�}:
+
+https://goo.gl/AEwKfG
